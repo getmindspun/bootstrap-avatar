@@ -1,11 +1,11 @@
-![GitHub](https://img.shields.io/github/license/mindspun/bootstrap-avatar?label=License)
+![GitHub](https://img.shields.io/github/license/getmindspun/bootstrap-avatar?label=License)
 
 # Bootstrap Avatar
 
 A collection of fixed and responsive CSS for styling avatars.
 
 ## Demo
-https://mindspun.github.io/bootstrap-avatar
+https://getmindspun.github.io/bootstrap-avatar
 
 ## Installation
 
@@ -80,7 +80,7 @@ You can create avatars that resize basic on the viewport width:
 This example uses the Bootstrap [person-circle](https://icons.getbootstrap.com/icons/person-circle/) icon as an inline SVG then
 adds the responsive classes `-md-24`, `-lg-32` etc so that the image grows with screen size.
 
-These examples and others can be found on the [demo page](https://mindspun.github.io/bootstrap-avatar).
+These examples and others can be found on the [demo page](https://getmindspun.github.io/bootstrap-avatar).
 
 ## Development
 ### Setup
@@ -98,7 +98,7 @@ npm run build
 npm run serve
 ```
 
-The above commands serves a local version of the [demo page](https://mindspun.github.io/bootstrap-avatar).
+The above commands serves a local version of the [demo page](https://getmindspun.github.io/bootstrap-avatar).
 
 ---
 This repository is maintained by [Mindspun](https://www.mindspun.com).

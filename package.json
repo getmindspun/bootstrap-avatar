@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mindspun/bootstrap-avatar.git"
+        "url": "git+https://github.com/getmindspun/bootstrap-avatar.git"
     },
     "keywords": [
         "CSS",
@@ -20,9 +20,9 @@
     "author": "Mindspun",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/mindspun/bootstrap-avatar/issues"
+        "url": "https://github.com/getmindspun/bootstrap-avatar/issues"
     },
-    "homepage": "https://github.com/mindspun/bootstrap-avatar#readme",
+    "homepage": "https://github.com/getmindspun/bootstrap-avatar#readme",
     "devDependencies": {
         "bootstrap": "^5.0.0-beta3",
         "express": "^4.17.1",

@@ -7,6 +7,10 @@ A collection of fixed and responsive CSS for styling avatars.
 ## Demo
 https://getmindspun.github.io/bootstrap-avatar
 
+## Examples
+
+Check out [Bootstrap Avatars Documentation](https://mdbootstrap.com/docs/standard/extended/avatar/) for detailed instructions & even more examples.
+
 ## Installation
 
 ### jsDelivr CDN
